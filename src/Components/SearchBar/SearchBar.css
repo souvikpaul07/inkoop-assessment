@@ -1,0 +1,18 @@
+.searchBar{
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.searchBox{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.text{
+    margin-top: 2px;
+    text-align: start;
+}
