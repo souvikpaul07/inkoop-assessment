@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -29,6 +29,6 @@
     "vite": "^5.4.1"
   },
 
-  "homepage": "https://<souvikpaul07>.github.io/<Assessment>"
+  "homepage": "https://souvikpaul07.github.io/inkoop-assessment"
 
 }
